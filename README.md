@@ -8,3 +8,24 @@ Here's the prompt that I plugged into Claude Sonnet 4 on May 25, 2025:
 I thought I'd have to iterate this a number of times, but other than cosmetic elements like the title I used and the color of the page, I didn't have to change a thing. It's kind of freaky. Anyways, let me know if you used this and if it was useful to you!
 
 If you make any original work using this tool, I'd love to see it at remediatelitmag.xyz, the magazine I run that solicits computer-assisted creative writing! 
+
+A cursory Google search for similar tools renders very little in the way of a simple interface for creative manipulation only. I've listed the others below to credit other sites doing simliar work! 
+
+## Blackout Poetry Tools
+#### [Blackout Poetry Generator](https://blackout-poetry-generator.vercel.app)
+A tool coded by a /Real person/, [github user @zhaovan](https://github.com/zhaovan/blackout-poetry-generator), to make blackout poetry either randomly or with a Markov tool that apparently takes into account the types of words in the set before erasing. 
+#### [Blackout Poetry Maker](https://blackoutpoetry.glitch.me)
+Another tool coded by another /real person/, [Dr. Emma Winston](https://emmawinston.me). This interface is a little different from the other blackout poetry makers, allowing the user to select and unselect the words they're /keeping/, not the words they want blacked out.This feature is fully dependent on user interaction, not permutationally erasing like "every 5th".
+#### [ErasureMaker](http://erasure.alanharnum.ca/edit.html) 
+A tool coded by another /real person/, [Alan Harnum](https://www.alanharnum.ca/page/projects/). I like that in this one you get to choose the format of the erasure you make (fading out, strikethrough, blackout, fully-erased). You can also, similar to the one I had Claude code, choose between erasing words, characters, and Title. This feature is fully dependent on user interaction, not permutationally erasing like "every 5th". Previous excerpts and erasures are stored in the site as well, so one may read others' erasures! 
+#### [Proceedural Erasure Poetry Generator](https://empowermint.github.io/erasurepoetry/)
+Another tool coded by another /real person/, James T. Harding, [aka empowermint](https://github.com/empowermint/erasurepoetry). I like that this one is automatic but in some ways random. The variability here is really nice!
+
+## Algorithmic Tools
+### Erasure Poet
+This [Erasure Poetry Creaton](https://www.yeschat.ai/gpts-9t557IEEGMp-Erasure-Poet) chatbot really just seems like a bootstrapped AI Chatbot on "YesChatAI" linked up to Claude, ChatGPT, DeepSeek, and Grok. It's not a permutational/computational tool, but an algorithmic generator. In my experience, text generators are unreliable text erasers. 
+
+## Non-poetic tools 
+### Text Cleaner and Text Formatter 
+At [Text Cleaner](https://textcleaner.net/#google_vignette), a user can upload text and perform a variety of clean-ups, like removing tabs, spaces, and line breaks, specific characters, convert file types, and so on. 
+

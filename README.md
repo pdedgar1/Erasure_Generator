@@ -14,7 +14,7 @@ If you make any original work using this tool, I'd love to see it at remediateli
 A cursory Google search for similar tools renders very little in the way of a simple interface for creative manipulation only. I've listed the others below to credit other sites doing simliar work! 
 
 #### [Blackout Poetry Generator](https://blackout-poetry-generator.vercel.app)
-A tool coded by a /Real person/, [github user @zhaovan](https://github.com/zhaovan/blackout-poetry-generator), to make blackout poetry either randomly or with a Markov tool that apparently takes into account the types of words in the set before erasing. 
+A tool coded by a /Real person/, [Ivan Zhao](https://github.com/zhaovan/blackout-poetry-generator), to make blackout poetry either randomly or with a Markov tool that apparently takes into account the types of words in the set before erasing. 
 #### [Blackout Poetry Maker](https://blackoutpoetry.glitch.me)
 Another tool coded by another /real person/, [Dr. Emma Winston](https://emmawinston.me). This interface is a little different from the other blackout poetry makers, allowing the user to select and unselect the words they're /keeping/, not the words they want blacked out.This feature is fully dependent on user interaction, not permutationally erasing like "every 5th".
 #### [ErasureMaker](http://erasure.alanharnum.ca/edit.html) 

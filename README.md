@@ -1,5 +1,5 @@
-# Erasure_Generator
-A Claude-Coded erasure generator for the facilitation of found language! 
+# Permutational_Eraser
+A Claude-Coded erasure "generator"(?) for the facilitation of found language! 
 
 Here's the prompt that I plugged into Claude Sonnet 4 on May 25, 2025: 
 
